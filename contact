@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>CONSULTCARS, Sport & Prestige</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+    <link rel="shortcut icon" href="images/car.ico" />
+
+    <div class="menu">
+      <center>
+		  <a href="/"> Présentation </a>
+      <a href="occasion"> Véhicules d'occasion </a>
+      <a href="vendus"> Véhicules vendus </a>
+      <a href="poccasion"> Pièces d'occasion </a>
+      <a href="partenaires"> Partenaires </a>
+      <a href="#"> Contact </a>
+    </div>
+
+  </head>
+  <body style="background-color: black">
+    <script src="script.js"></script>
+    <center>
+    <img src="images/bandeauconsultcars.jpg" width="750" height="auto"><br>
+    <h1 class="titre">VENTE - DEPOT VENTE - ACHAT - COURTAGE - GARANTIE</h1>
+    <br>
+    <br>
+    <br>
+    <img src="/images/mail.png" height="50" width="50">
+    <h2><a href="mailto:consultcars@orange.fr" style="color:orangered">consultcars@orange.fr</a></h2>
+    <br>
+    <br>
+    <img src="/images/phone.png" height="50" width="50">
+    <br>
+    <h2>Philippe DREVON au <a href="tel:+33671910477" style="color:orangered">06.71.91.04.77</a></h2>
+  </body>
+  <footer>
+  <h1>EIRL CONSULTCARS - 05000 GAP - SIREN 429 464 076</h1>
+  </footer>
+</html>
